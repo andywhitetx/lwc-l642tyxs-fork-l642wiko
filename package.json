@@ -1,6 +1,6 @@
 {
   "name": "@wcd/andywhitetx.lwc-l642tyxs-fork-l642wiko",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve XaNMxe5lHBhltA0iS5ub --open"
   }
